@@ -1,12 +1,11 @@
-
-import style from './App.module.css'
-import Image from "./SQIimg.png"
-import Image3 from "./SQI image3.jpg"
-import Image2 from "./SQI img2.jpg"
-import Image1 from "./SQI img1.jpg"
-import Navbar from './Component/Navbar'
-import Section2 from './Component/Section2' 
-import Topcourse from './Component/Topcourse'
+import style from './App.module.css';
+import Image from "./SQIimg.png";
+import Image3 from "./SQI image3.jpg";
+import Image2 from "./SQI img2.jpg";
+import Image1 from "./SQI img1.jpg";
+import Navbar from './Component/Navbar';
+import Section2 from './Component/Section2' ;
+import Topcourse from './Component/Topcourse';
 import Footer from './Component/Footer'
 
 const firstPage = () =>{
@@ -36,7 +35,7 @@ const firstPage = () =>{
       {/* <h1>{myAge}</h1> */}
       {/* <button onClick={(=>)} type="button"></button> */}
     <div className={style.secj1}>
-    <h2 className={style.journey}>Start here. Change the world.
+    <h2 className={style.journey} >Start here. Change the world.
     </h2>
     <div className={style.secont}>
       <div className={style.imgroup}>
