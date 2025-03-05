@@ -1,0 +1,30 @@
+.main{
+  color: black;
+  width: 100%;
+  
+}
+h2{
+  font-size: 1.6875rem;
+}
+h2{
+  width: 40%;
+  font-size: 1.5rem;
+  padding-left: 8.4375rem;
+}
+.container{
+  padding-right: 12.3125rem;
+  padding-left: 11.0125rem;
+}
+.semi{
+  color: black;
+}
+.icon{
+  /* float: left; */
+  display: flex;
+  column-gap: 7rem;
+  padding-bottom: 3rem;
+}
+img{
+  width:9.4601rem ;
+  height: 4.2184rem;
+}

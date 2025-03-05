@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Sansita+Swashed:wght@300..900&display=swap');
+.unordered{
+  display:inline-flex;
+    /* border: 1px solid whitesmoke; */
+    /* box-shadow: 1px 1px 1px 1px rgb(216, 215, 215); */
+    margin-left: 19.475rem;
+    min-width: 100%;
+    max-width: 100%;
+    /* border-bottom: 1px solid black; */
+}
+.mother{
+  border-bottom: 1px solid rgb(190, 190, 192);
+  width: 100%;
+  display: flex;
+  padding-left: 8.7rem;
+}
+.list{
+  font-family:poppins,helvetica,arial,lucida,sans-serif ;
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 14px;
+    font-variant: normal;
+    font-stretch: 100%;
+    color: rgb(8,31,137);
+    display:flex;
+    margin-left: 1rem;
+    /* border: 1px solid red; */
+    margin-top: 17px;
+}
+.icon{
+  width: 4.5rem;
+  height: 4.67rem;
+}
+.font{
+  font-size: 12px;
+  /* padding-left: 5px; 
+  padding-top: 5px; */
+  width: 16px;
+  height: 16px;
+  color: black;
+}

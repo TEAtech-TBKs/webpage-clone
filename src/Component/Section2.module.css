@@ -1,0 +1,82 @@
+h4{
+  color: rgb(29, 28, 28);
+  font-weight: 700;
+}
+.pargph{
+  border-bottom:1px solid blue;
+  color: grey;
+  font-weight: 400;
+  font-size: 1.09rem;
+  font-family: poppins, serif;
+}
+.yes{
+  color: grey;
+  font-weight: 500;
+  font-size: 1.09rem;
+}
+strong{
+  color: rgb(92, 91, 91);
+}
+.exterior{
+width: auto;
+}
+.interior{
+  display: flex;
+  column-gap: 3.625rem;
+  padding-left: 8.4375rem;
+  padding-top: 3.75rem;
+}
+.individual{
+  width: 20rem;
+}
+  .ext{
+    background: url(./DSC_9054-scaled.jpg);
+    /* -webkit-backdrop-filter:blur() ; */
+    /* backdrop-filter: blur(5px); */
+    background-position: center;
+    background-size: cover;
+    height: 28.5625rem;
+    
+}
+.filter{
+  background: linear-gradient(to right,rgba(5, 3, 146, 0.11),rgba(1, 1, 90, 0.973));
+  height: 28.5625rem;
+}
+.int{
+  padding-left: 8.4375rem;
+  display: flex;
+  column-gap: 3.625rem;
+  /* background: linear-gradient(to right,rgba(255, 255, 255, 0.11),rgba(1, 1, 90, 0.973)); */
+}
+.tour{
+  color: white;
+}
+.outline{
+  color:white;
+}
+.frame{
+  margin-top: 3.5625rem;
+  border-radius: 1rem;
+  width: 24.8125rem;
+  height: 14.0625rem;
+}
+.cont{
+  width: 623px;
+  height: 18.75rem;
+}
+.outline{
+  font-size: 1.034rem;
+  font-weight: 500;
+  
+}
+a.apply {
+  background-color: rgb(0, 32, 138);
+    border-radius: 2.1rem;
+    color: white;
+    width: 80px;
+    height: 35px;
+    text-align: center;
+    line-height: 6.375rem;
+    padding: 1rem 1.4rem;
+    padding-bottom: -0.9rem;
+}

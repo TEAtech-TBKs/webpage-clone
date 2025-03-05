@@ -1,0 +1,29 @@
+.universal{
+display: flex;
+column-gap: 4.625rem;
+background-color: rgb(238, 238, 255);
+padding: 3rem 8.4375rem ;
+}
+.flex{
+  color: gray;
+  font-size: .775rem;
+  font-weight: 500;
+}
+h4{
+  font-weight: 500;
+  font-size: 0.87rem;
+}
+.h4first{
+  font-size: 1rem;
+  color: black;
+}
+.rev{
+  font-size: .875rem;
+}
+.end{
+  background-color: darkblue;
+  text-align: center;
+}
+.final{
+  color: white;
+}
